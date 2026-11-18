@@ -1,0 +1,12 @@
+publisher,found_on_github,github_url,real_name,company,location,public_repos,followers,github_created,n_packages
+synth-alice,True,,Synthetic Alice,,,140.0,3100.0,2012-04-11T09:00:00Z,1
+synth-bob,True,,Synthetic Bob,,,60.0,420.0,2014-08-30T09:00:00Z,1
+synth-carol,True,,Synthetic Carol,,,85.0,1900.0,2011-02-17T09:00:00Z,1
+synth-dave,True,,Synthetic Dave,,,300.0,5200.0,2010-06-05T09:00:00Z,1
+synth-erin,True,,,,,2.0,0.0,2024-12-01T09:00:00Z,2
+synth-newacct-4821,False,,,,,,,,1
+synth-frank,True,,Synthetic Frank,,,95.0,800.0,2013-11-23T09:00:00Z,1
+synth-grace,True,,Synthetic Grace,,,40.0,150.0,2016-01-09T09:00:00Z,1
+synth-heidi,True,,Synthetic Heidi,,,120.0,2400.0,2012-10-02T09:00:00Z,1
+synth-ivan,True,,Synthetic Ivan,,,70.0,610.0,2015-03-14T09:00:00Z,1
+synth-judy,True,,Synthetic Judy,,,25.0,90.0,2017-07-28T09:00:00Z,1
